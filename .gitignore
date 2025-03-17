@@ -1,0 +1,7 @@
+scenarios
+# Ignore the 'scenarios' folder and everything in it
+scenarios/
+
+# Ignore other common files
+*.log
+*.tmp
